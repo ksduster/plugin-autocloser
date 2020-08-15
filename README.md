@@ -77,3 +77,7 @@ Change the `FALSE` into `TRUE`.
 
 
 Enjoy!
+
+
+Note: With my experience with this plug in, if you have the "Audit" plugin disabled, it will not work.
+Disable the Audit plug in for the first few cycles of this closer running, then re-enable your audit plugin.
